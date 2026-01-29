@@ -1,5 +1,12 @@
-# 🏗️ Projeto: Private Cloud na AWS
+# ☁️ Projeto: Private Cloud na AWS (VPC + Bastion + EC2 Privada)
 
-Este projeto simula uma arquitetura de **nuvem privada corporativa** utilizando serviços da AWS, com foco em segurança, isolamento de rede e boas práticas de infraestrutura em cloud.
+Este projeto foi desenvolvido com foco em **arquitetura de nuvem privada**, simulando um ambiente corporativo real na AWS.
 
-O laboratório foi desenvolvido com objetivo educacional, visando a formação prática em **Cloud Computing, Cloud Support e Infraestrutura em Nuvem**.
+O laboratório demonstra como empresas estruturam ambientes **isolados, seguros e sem acesso público direto**, utilizando boas práticas de rede, segurança e controle de acesso.
+
+Projeto voltado para formação prática em:
+- Cloud Computing  
+- Cloud Support  
+- Infraestrutura em Nuvem  
+- Segurança em Cloud  
+- Redes em ambientes corporativos  
