@@ -1,1 +1,5 @@
-git add README.md
+# 🏗️ Projeto: Private Cloud na AWS
+
+Este projeto simula uma arquitetura de **nuvem privada corporativa** utilizando serviços da AWS, com foco em segurança, isolamento de rede e boas práticas de infraestrutura em cloud.
+
+O laboratório foi desenvolvido com objetivo educacional, visando a formação prática em **Cloud Computing, Cloud Support e Infraestrutura em Nuvem**.
